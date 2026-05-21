@@ -22,9 +22,6 @@ This repository contains Excel-based data analysis projects focused on:
 
 | Project | Skills | Status |
 |---|---|---|
-| Sales Dashboard Analysis | Pivot Tables, Charts, KPIs | Completed |
-| HR Analytics Dashboard | Data Cleaning, Visualization | In Progress |
-| Retail Performance Analysis | Dashboard Automation | Planned |
 
 ## Goals
 
