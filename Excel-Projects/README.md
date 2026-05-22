@@ -63,12 +63,3 @@ Current focus areas include:
 
 ---
 
-# Future Improvements
-
-Future Excel projects will include:
-- Advanced formulas
-- Scenario analysis
-- Forecasting models
-- Financial reporting
-- KPI tracking systems
-- Real-world messy datasets
