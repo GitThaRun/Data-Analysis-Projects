@@ -86,7 +86,7 @@ Customers with higher average income showed a greater tendency to purchase bikes
 
 ## Commute Distance Analysis
 
-![Commute Pivot Analysis](Screenshots/Commute_analysis_pivot).png)
+![Commute Pivot Analysis](Screenshots/Commute_analysis_pivot.png)
 
 ### Key Observation
 Customers with shorter commute distances demonstrated higher bike purchase activity.
