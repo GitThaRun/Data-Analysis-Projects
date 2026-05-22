@@ -68,3 +68,4 @@ The repository will continue evolving with:
 # Connect With Me
 
 - GitHub: https://github.com/GitThaRun
+- LinkedIn : www.linkedin.com/in/jami-tharun
