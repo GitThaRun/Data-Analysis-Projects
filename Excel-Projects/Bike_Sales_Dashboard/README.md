@@ -77,7 +77,7 @@ The dataset contains customer demographic and purchasing information, including:
 
 ## Income Analysis
 
-![Income Pivot Analysis](Screenshots/Income_Pivot_analysis.png)
+![Income Pivot Analysis](Screenshots/Income_pivot_analysis.png)
 
 ### Key Observation
 Customers with higher average income showed a greater tendency to purchase bikes.
