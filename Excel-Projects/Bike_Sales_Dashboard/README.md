@@ -69,7 +69,7 @@ The dataset contains customer demographic and purchasing information, including:
 
 ## Interactive Filtering
 
-![Slicer Interaction](screenshots/slicer-interaction.png)
+![Slicer Interaction](Screenshots/Slicer_Interaction.png)
 
 ---
 
@@ -77,7 +77,7 @@ The dataset contains customer demographic and purchasing information, including:
 
 ## Income Analysis
 
-![Income Pivot Analysis](screenshots/income-pivot-analysis.png)
+![Income Pivot Analysis](Screenshots/Income_Pivot_analysis.png)
 
 ### Key Observation
 Customers with higher average income showed a greater tendency to purchase bikes.
@@ -86,7 +86,7 @@ Customers with higher average income showed a greater tendency to purchase bikes
 
 ## Commute Distance Analysis
 
-![Commute Pivot Analysis](screenshots/commute-pivot-analysis.png)
+![Commute Pivot Analysis](Screenshots/Commute_analysis_pivot).png)
 
 ### Key Observation
 Customers with shorter commute distances demonstrated higher bike purchase activity.
@@ -95,7 +95,7 @@ Customers with shorter commute distances demonstrated higher bike purchase activ
 
 ## Age Bracket Analysis
 
-![Age Pivot Analysis](screenshots/age-pivot-analysis.png)
+![Age Pivot Analysis](Screenshots/Age_analysis_pivot.png)
 
 ### Key Observation
 Middle-aged customers represented the largest segment of bike purchasers.
