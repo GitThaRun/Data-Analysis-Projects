@@ -63,7 +63,7 @@ The dataset contains customer demographic and purchasing information, including:
 
 ## Main Dashboard
 
-![Main Dashboard](screenshots/Main_Dashboard.png)
+![Main Dashboard](Screenshots/Main_Dashboard.png)
 
 ---
 
