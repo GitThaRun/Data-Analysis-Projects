@@ -97,7 +97,7 @@ These KPIs provide a high-level summary of call center performance and customer 
 
 ## Demographics & Satisfaction Analysis
 
-![Customer Analysis 1](Screenshots/customer_analyis-2.png)
+![Customer Analysis 1](Screenshots/customer_analysis-2.png)
 
 This section analyzes:
 - Female vs Male caller distribution
@@ -121,7 +121,7 @@ This section focuses on:
 
 ## Productivity & Revenue Contribution
 
-![Representative Analysis 1](Screenshots/rep analysis-1.png)
+![Representative Analysis 1](Screenshots/rep_analysis-1.png)
 
 This section compares:
 - Total calls handled by representatives
