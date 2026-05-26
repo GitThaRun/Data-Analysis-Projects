@@ -102,8 +102,6 @@ These KPIs provide a high-level summary of call center performance and customer 
 This section analyzes:
 - Female vs Male caller distribution
 - Customer satisfaction ratings
-- Customer demographic patterns across cities
-
 ---
 
 ## Customer Interaction Trends
@@ -112,9 +110,7 @@ This section analyzes:
 
 This section focuses on:
 - Monthly call activity trends
-- Weekly interaction patterns
 - Call distribution behavior over time
-
 ---
 
 # Representative Performance Analysis
@@ -148,19 +144,8 @@ This section provides:
 - Representative performance tracking
 - Customer demographic analysis
 - Revenue and call monitoring
-- Heatmap-based visual analysis
 - Trend and activity reporting
 - Dynamic dashboard interactions
-
----
-
-# Key Insights
-
-- Certain representatives consistently generated higher revenue and managed larger call volumes.
-- Customer satisfaction ratings were concentrated in higher rating categories.
-- Call activity fluctuated significantly across months and weekdays.
-- Revenue contribution varied across representatives and customer groups.
-- Customer interaction behavior differed across cities and demographic segments.
 
 ---
 
