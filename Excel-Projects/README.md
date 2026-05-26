@@ -45,6 +45,7 @@ Each project is organized in its own folder with:
 Excel-Projects/
 │
 ├── Bike-Sales-Dashboard/
+├── Call_Center_Performance_Dashboard/
 
 ```
 
