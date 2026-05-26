@@ -1,4 +1,4 @@
-# Data Analysis Projects Portfolio
+# Data Analytics Projects Portfolio
 
 This repository serves as a centralized portfolio for my data analysis learning journey and hands-on projects.
 
