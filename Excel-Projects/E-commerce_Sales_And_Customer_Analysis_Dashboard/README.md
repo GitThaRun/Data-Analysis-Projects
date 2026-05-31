@@ -85,7 +85,7 @@ The dataset contains e-commerce transaction and customer-related information, in
 
 # Customer Purchase Behavior
 
-![Customer Purchase Behavior](screenshots/customer_analysis-1.png)
+![Customer Purchase Behavior](Screenshots/customer_analysis-1.png)
 
 **Insight:** App and Website channels drove the highest purchase activity, with female customers contributing the largest share.
 
