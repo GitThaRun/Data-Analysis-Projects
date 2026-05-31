@@ -69,3 +69,96 @@ The dataset contains e-commerce transaction and customer-related information, in
 ![Main Dashboard](Screenshots/main_dashboard.png)
 
 ---
+
+# KPI Overview
+
+![KPI Overview](Screenshots/kpi_overview.png)
+
+### Insights
+
+- The business processed **2,400 orders** resulting in **11,997 units sold**.
+- Total revenue generated exceeded **$649K**.
+- Customers reported a strong average satisfaction rating of **4.0/5**.
+- Average delivery time remained relatively low at **2.3 days**.
+
+---
+
+# Customer Purchase Behavior
+
+![Customer Purchase Behavior](screenshots/customer_analysis-1.png)
+
+**Insight:** App and Website channels drove the highest purchase activity, with female customers contributing the largest share.
+
+---
+
+# Quantity Analysis
+
+![Quantity Analysis](Screenshots/customer_analysis-2.png)
+
+**Insight:** Most customers purchased between 1–3 items per order, with 2-item purchases being the most common.
+
+---
+
+# Customer Satisfaction Analysis
+
+![Customer Satisfaction Analysis](Screenshots/customer_analysis-3.png)
+
+**Insight:** Customer ratings were predominantly 4 and 5 stars, indicating strong overall satisfaction.
+
+---
+
+# Product Performance Analysis
+
+![Product Performance Analysis](Screenshots/product_analysis.png)
+
+**Insight:** T-Shirts, Jeans, and Sneakers emerged as the highest-performing product categories across customer segments.
+
+---
+
+# Geographic Analysis
+
+![Geographic Analysis](Screenshots/shipping_geography_analysis.png)
+
+**Insight:** Customer demand was concentrated in a few high-performing regions, with Southern California showing the strongest activity.
+
+---
+
+# Dashboard Features
+
+- Interactive filtering using slicers
+- Executive KPI reporting
+- Customer behavior analysis
+- Product performance monitoring
+- Geographic sales visualization
+- Delivery performance tracking
+- Customer satisfaction analysis
+- Trend-based reporting
+
+---
+
+# Skills Demonstrated
+
+- Data Cleaning
+- Data Visualization
+- Dashboard Design
+- KPI Development
+- Business Analysis
+- Customer Analytics
+- Sales Reporting
+- Interactive Reporting
+- Data Storytelling
+- Excel Dashboard Development
+
+---
+
+# Learning Outcomes
+
+Through this project, I practiced:
+
+- Building executive-style dashboards
+- Designing KPI-driven reports
+- Analyzing customer behavior
+- Tracking operational performance
+- Creating interactive Excel dashboards
+- Presenting business insights visually
+- Structuring portfolio-ready analytical projects
