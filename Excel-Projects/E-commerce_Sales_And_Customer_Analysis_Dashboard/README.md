@@ -66,6 +66,6 @@ The dataset contains e-commerce transaction and customer-related information, in
 
 ## Main Dashboard
 
-![Main Dashboard](Screenshots/main-dashboard.png)
+![Main Dashboard](Screenshots/main_dashboard.png)
 
 ---
